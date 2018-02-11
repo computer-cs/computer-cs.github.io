@@ -1,2 +1,1 @@
-# computer-cs.github.
-io
+# computer-cs.github.io
